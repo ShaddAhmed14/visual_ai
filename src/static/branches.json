@@ -1,0 +1,10 @@
+[
+    {"city": "Lahore", "location": {"lat": 31.53396628710916, "lng": 74.40075741807935}, "branches": [
+        {"location":{"lat": 31.53396628710916, "lng": 74.40075741807935}, "name": "Branch 1" },
+        {"location":{"lat": 31.505232932299993,"lng":  74.3149594610362}, "name": "Branch 2" },
+        {"location":{"lat": 31.438154088383808,"lng":  74.4150570775865}, "name": "Branch 3" }] },
+    {"city": "Islamabad", "location": {"lat": 33.75786203182314, "lng": 73.21398299627369}, "branches": [
+        {"location":{"lat": 33.75786203182314, "lng": 73.21398299627369}, "name": "Branch 1" },
+        {"location":{"lat": 33.66251068244594, "lng": 73.17577469070287}, "name": "Branch 2" },
+        {"location":{"lat": 33.76977350441198, "lng": 72.78891559679832}, "name": "Branch 3" }] }
+]
