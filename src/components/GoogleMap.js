@@ -18,6 +18,9 @@ function MapContainer() {
   // const { side_nav: side_nav_check } = useSelector(selectSiteData);
   // let side_nav = side_nav_check ? <SideNav /> : null;
   
+
+  //checking
+  
   const mapStyles = {        
     height: "100vh",
     width: "100%"
